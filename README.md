@@ -38,6 +38,10 @@ The following python libraries are required:
     mysql -uUSER -pPASSWORD Ubertone < Ubertone.sql
     ```
     
+### Database Structure
+![Database structure](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Schema of mysql database")
+
+Reference-style:  
 # Live view of data 
 
 It is possible to view data acquired from UBLAB directly into matplotlib figure
