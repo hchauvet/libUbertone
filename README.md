@@ -39,9 +39,9 @@ The following python libraries are required:
     ```
     
 ### Database Structure
-![Database structure](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Schema of mysql database")
+![Database structure](https://github.com/hchauvet/libUbertone/raw/master/img/baseUbertone.jpg "Schema of mysql database")
 
-Reference-style:  
+
 # Live view of data 
 
 It is possible to view data acquired from UBLAB directly into matplotlib figure
